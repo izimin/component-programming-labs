@@ -1,0 +1,6 @@
+C:\Users\zimin\Documents\Visual Studio 2015\Projects\COMPrinter\CoPrinterClientCSharpConsol\bin\Debug\CoPrinterClientCSharpConsol.exe.config
+C:\Users\zimin\Documents\Visual Studio 2015\Projects\COMPrinter\CoPrinterClientCSharpConsol\bin\Debug\CoPrinterClientCSharpConsol.exe
+C:\Users\zimin\Documents\Visual Studio 2015\Projects\COMPrinter\CoPrinterClientCSharpConsol\bin\Debug\CoPrinterClientCSharpConsol.pdb
+C:\Users\zimin\Documents\Visual Studio 2015\Projects\COMPrinter\CoPrinterClientCSharpConsol\obj\Debug\CoPrinterClientCSharpConsol.exe
+C:\Users\zimin\Documents\Visual Studio 2015\Projects\COMPrinter\CoPrinterClientCSharpConsol\obj\Debug\CoPrinterClientCSharpConsol.pdb
+C:\Users\zimin\Documents\Visual Studio 2015\Projects\COMPrinter\CoPrinterClientCSharpConsol\obj\Debug\CoPrinterClientCSharpConsol.csprojResolveAssemblyReference.cache

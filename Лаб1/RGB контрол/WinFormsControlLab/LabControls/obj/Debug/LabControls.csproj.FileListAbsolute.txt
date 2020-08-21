@@ -1,0 +1,14 @@
+C:\Users\zimin\source\repos\WinFormsControlLab\LabControls\bin\Debug\LabControls.dll
+C:\Users\zimin\source\repos\WinFormsControlLab\LabControls\bin\Debug\LabControls.pdb
+C:\Users\zimin\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.csprojAssemblyReference.cache
+C:\Users\zimin\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.csproj.CoreCompileInputs.cache
+C:\Users\zimin\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.dll
+C:\Users\zimin\source\repos\WinFormsControlLab\LabControls\obj\Debug\LabControls.pdb
+D:\Илья\WinFormsControlLab\LabControls\bin\Debug\LabControls.dll
+D:\Илья\WinFormsControlLab\LabControls\bin\Debug\LabControls.pdb
+D:\Илья\WinFormsControlLab\LabControls\obj\Debug\LabControls.csproj.CoreCompileInputs.cache
+D:\Илья\WinFormsControlLab\LabControls\obj\Debug\LabControls.dll
+D:\Илья\WinFormsControlLab\LabControls\obj\Debug\LabControls.pdb
+D:\Илья\WinFormsControlLab\LabControls\obj\Debug\LabControls.RGBChangeColor.resources
+D:\Илья\WinFormsControlLab\LabControls\obj\Debug\LabControls.csproj.GenerateResource.cache
+D:\Илья\WinFormsControlLab\LabControls\obj\Debug\LabControls.csprojAssemblyReference.cache

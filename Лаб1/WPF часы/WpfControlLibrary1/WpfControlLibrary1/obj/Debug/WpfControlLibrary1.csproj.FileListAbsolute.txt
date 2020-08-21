@@ -1,0 +1,13 @@
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csprojAssemblyReference.cache
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Users\zimin\source\repos\WpfControlLibrary1\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb

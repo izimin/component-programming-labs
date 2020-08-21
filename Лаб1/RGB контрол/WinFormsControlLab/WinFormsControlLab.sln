@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabControls", "LabControls\LabControls.csproj", "{5554E409-34C4-4959-B5BE-9D2FB959E713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestControlsApplication", "TestControlsApplication\TestControlsApplication.csproj", "{B4B8935D-A62F-4C33-9CDE-4C7F92B2E67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5554E409-34C4-4959-B5BE-9D2FB959E713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5554E409-34C4-4959-B5BE-9D2FB959E713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5554E409-34C4-4959-B5BE-9D2FB959E713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5554E409-34C4-4959-B5BE-9D2FB959E713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B8935D-A62F-4C33-9CDE-4C7F92B2E67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B8935D-A62F-4C33-9CDE-4C7F92B2E67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B8935D-A62F-4C33-9CDE-4C7F92B2E67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B8935D-A62F-4C33-9CDE-4C7F92B2E67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {083AB631-1505-4F80-B1FF-02F39B7F6544}
+	EndGlobalSection
+EndGlobal
